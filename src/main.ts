@@ -31,3 +31,7 @@ func(34, "Erez");
 function func2() {
   console.log("another function");
 }
+
+function func3() {
+  console.log("my theird function");
+}
