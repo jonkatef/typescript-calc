@@ -1,0 +1,7 @@
+//קונפיגורציה ל typescript
+{
+  "compilerOptions": {
+    "target": "ES5", // syntax in use צורת כתיבה
+    "outDir": "build" // לאן יתרגם את הקובץ שלנו
+  }
+}
